@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**franckdun/franckdun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**franckdun's a Dev ✨ _special_ ✨ because he's appears in your GitHub heart !
 
 - 👋 Hi, I’m @franckdun
 - 👀 I’m interested in blockchain ecosystem.
