@@ -3,7 +3,7 @@
 -->
 
 <!-- frise -->
-<h1 align="center"> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="75px"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="76.5px"><img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="75px"> </h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="75px">  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="76.5px">  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="75px"> </h1>
  
 <!-- Intro phrase --> 
  
