@@ -1,16 +1,14 @@
-<!-- username -->
-
+<!-- username 
 <h2 align="center"> ✨ <img src=" https://komarev.com/ghpvc/?username=franckdun&label=Profile%20views&color=0e75b6&style=flat" alt="franckdun" /> ✨ </h2>
+-->
 
 <!-- frise -->
-
 <h1 align="center"> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="75px"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="76.5px"><img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="75px"> </h1>
-<br>
  
 <!-- Intro phrase --> 
  
-<h3 align="center">&#9568;&#9571; &#9553; &#8252;   Je suis un développeur français passionné, bienvenue !</h3>
-<br>
+<h1 align="center">&#9568;&#9571; &#9553; &#8252; <br><br>
+Je suis un développeur français passionné, bienvenue !</h1>
 
 
 <!-- presentation -->
@@ -68,7 +66,7 @@
 
 ----------------------------------------------------------------------------------------------------------
 
-<!-- Projects -->
+<!-- Projects 
 <h2 align="center"> My latest projects </h2>
 <div align="center">
   <table>
@@ -164,7 +162,7 @@
         </tr>
   </table>
 </div>
-
+-->
 
 <!-- Contact 
 <p align="center">
