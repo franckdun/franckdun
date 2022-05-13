@@ -74,7 +74,7 @@ Je suis un développeur français passionné, bienvenue !</h1>
             <td width="50%">
                 <h3 align="center">My Blog 📰</h3>
                 <p align="center">
-                    <a href="#" target="_blank" rel="noreferrer"> <img src="./static/oz-blog.gif" alt="franckdun blog"/> </a>
+                    <a href="#" target="_blank" rel="noreferrer"> <img src="" alt="franckdun blog"/> </a>
                     <p align="center">
                         This is my own blog where I share my knowledges
                     </p>
