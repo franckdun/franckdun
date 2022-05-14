@@ -18,14 +18,14 @@ Je suis un développeur français passionné, bienvenue !</h1>
 
 <div align="center">
   
-🔭 Je travaille actuellement en **indépendant.**
+[x] Je travaille actuellement en **indépendant.**
 
-🌱 J'apprends actuellement **l'écosystem Ethereum.**
+[x] J'apprends actuellement **l'écosystem Ethereum.**
 
 
-👨‍💻 Tous mes projets sont disponibles sur [https://github.com/franckdun](https://github.com/franckdun)
+[x] Tous mes projets sont disponibles sur [https://github.com/franckdun](https://github.com/franckdun)
 <!-- 💬 Interrogez-moi sur **"le future à venir".** -->
-📫 Me joindre: **scorven7@gmail.com**
+[x] Me joindre: **scorven7@gmail.com**
   </div>
  
 <!--- Social network -->
@@ -68,109 +68,49 @@ Je suis un développeur français passionné, bienvenue !</h1>
 
 -------------------------------------------------------------------------------------------------	
 
-<!-- Projects 
-<h2 align="center"> My latest projects </h2>
+<!-- Projects --> 
+<h2 align="center"> My new projects </h2>
 <div align="center">
   <table>
         <tr>
             <td width="50%">
-                <h3 align="center">My Blog 📰</h3>
-                <p align="center">
-                    <a href="#" target="_blank" rel="noreferrer"> <img src="#" alt="franckdun blog"/> </a>
+                <h3 align="center">[ ] Je recherche de l'aide pour **un projet blockchain.**</h3>
                     <p align="center">
-                        This is my own blog where I share my knowledges
+                       ## Monnais locales sous blockchain : 
                     </p>
-            	</p>
+                    ```javascript
+							const franckdun = new Project_Blockchain();
+							function saveTheWorld() {
+ 							if(franckdun.colaborater > 0){
+    						return console.log("we have no more oil but we have ideas");
+  							}
+ 							return console.log("Sorry, i can do nothing.");
+							}
+					```
             </td>
             <td width="50%">
-                <h3 align="center">Chillflix 🎶</h3>
-                <p align="center">
-                    <a href="#" target="_blank" rel="noreferrer"> <img src="#" alt="chillflix"/> </a>
-                    <p align="center">
-                        A chill radio from youtube to listen Lo-Fi music without being disturbed
-                    </p>
-            	</p>
-            </td>
-        </tr>
-        <tr>
-            <td width="50%">
-                <h3 align="center">CCbox TV 📹</h3>
-                <p align="center">
-                    <a href="#" target="_blank" rel="noreferrer"> <img src="#" alt="ccbox-tv"/> </a>
-                    <p align="center">
-                        A netflix like for the Youtube Channel Cacabox TV
-                    </p>
-                </p>
-            </td>
-            <td width="50%">
-                <h3 align="center">Unbox JS 📦</h3>
-                <p align="center">
-                    <a href="https://www.npmjs.com/package/unbox-js" target="_blank" rel="noreferrer"> <img src="./static/unbox-js.gif" alt="unbox-js"/> </a>
-                    <a href="https://www.npmjs.com/package/unbox-js" target="blank"><img src="https://img.shields.io/npm/dy/unbox-js" alt="unbox-js-badge" /></a>
-                    <p align="center">
-                        NPM repository created with a friend to help web developper
-                    </p>
-            	</p>
-            </td>
-        </tr>
-        <tr>
-            <td width="50%" align="center">
-                <h3 align="center">Underrated skill in javascript 📚</h3>
-                <p align="center">
-                    <a href="https://codeoz.gumroad.com/l/RXLYp" target="_blank" rel="noreferrer"> <img src="./static/ebook-underrated.png" alt="ccbox-tv" /> </a>
-                    <p align="center">
-                        This book is for all javascript developers that want to learn unpopular things about javascript
-                    </p>
-                </p>
-            </td>
-            <td width="100%" align="center">
-                <h3 align="center">Others ...</h3>
-                </p>
-                <p align="center">
-                    <p align="center">
-                        <a href="https://marketplace.visualstudio.com/items?itemName=code-oz.what-is-operator-javascript" target="_blank" rel="noreferrer">What is operator javascript 🔌 </a>
-                        <p>
-                            I created an operator lookup plugin for all VSCode user!
-                        </p>
-                    </p>
-                </p>
-                <p align="center">
-                    <p align="center">
-                        <a href="https://github.com/Code-Oz/youtube-dl-front" target="_blank" rel="noopener" > YT Downloader 🛠</a>
-                        <p>
-                            I created a youtube downloader that manage video & playlist
-                        </p>
-                    </p>
-                </p>
-                <p align="center">
-                    <p align="center">
-                        <a href="https://chrome.google.com/webstore/detail/beta-twitch-plus/ahdoacgdgcgkhmajnmibefppffbbkgnl?hl=fr&authuser=0" target="_blank" rel="noopener"> Twitch plus 🤖</a> 
-                        <p>
-                            Chrome extension that improve your experience on twitch
-                        </p>
-                    </p>
-                </p>
-                <p align="center">
-                    <p align="center">
-                        <a href="https://www.npmjs.com/package/liftp-js" target="_blank" rel="noopener"> liftP JS 📦</a> 
-                        <p>
-                            NPM Package to modify a sync function into an async function without manage parameters
-                        </p>
-                    </p>
-                </p>
-                <p style='margin-bottom: 175px'>
-                </p>  
+                <h3 align="center">idée générale;</h3>
+                 ```mermaid
+  						graph TD;
+      					monnais-->projets;
+      					projets-->developpement-local;
+      					developpement-local-->protection;
+      					protection-->activités-locales;
+      					activités-locales-->monnais;
+				```
             </td>
         </tr>
   </table>
 </div>
--->
+
 
 <!-- 👯 Je cherche à collaborer **pour sauver le monde.** -->
 
-🤝 Je recherche de l'aide pour **un projet blockchain.**
+ [ ] Je recherche de l'aide pour **un projet blockchain.**
  
  ## Monnais locales sous blockchain :
+
+<!-- shemas --> 
 
 ```mermaid
   graph TD;
@@ -180,9 +120,20 @@ Je suis un développeur français passionné, bienvenue !</h1>
       protection-->activités-locales;
       activités-locales-->monnais;
 ```
+```javascript
+const franckdun = new Project_Blockchain();
+function saveTheWorld() {
+  if(franckdun.colaborater > 0){
+    return console.log("we have no more oil but we have ideas");
+  }
+ return console.log("Sorry, i can do nothing.");
+}
+```
+
+<!-- envoyer un mail -->
 
 <p align="center">
-    <a href="scorven7@gmail.com">SEND EMAIL</a>
+    <a href="#">* SEND A EMAIL *</a>
     <p style='margin-bottom: 20px'>
     </p>
 </p>  
