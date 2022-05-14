@@ -21,9 +21,6 @@ Je suis un développeur français passionné, bienvenue !</h1>
 
 🌱 J'apprends actuellement **l'écosystem Ethereum.**
 
-<!-- 👯 Je cherche à collaborer **pour sauver le monde.** -->
-
-🤝 Je recherche de l'aide avec **mon projet blockchain.**
 
 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/franckdun](https://github.com/franckdun)
 <!-- 💬 Interrogez-moi sur **"le future à venir".** -->
@@ -165,17 +162,29 @@ Je suis un développeur français passionné, bienvenue !</h1>
   </table>
 </div>
 -->
+-------------------------------------------------------------------------------------------------
 
-<!-- Contact 
-<p align="center">
-<h1 align="center">How to get in touch?</h1>
+
+<!-- 👯 Je cherche à collaborer **pour sauver le monde.** -->
+
+🤝 Je recherche de l'aide pour **un projet blockchain.**
+ 
+ ## Monnais locales sous blockchain :
+
+```mermaid
+  graph TD;
+      monnais-->projets;
+      projets-->developpement-local;
+      developpement-local-->protection;
+      protection-->monnais;
+```
 
 <p align="center">
     <a href="scorven7@gmail.com">SEND EMAIL</a>
     <p style='margin-bottom: 20px'>
     </p>
 </p>  
--->
+
 
 <!-- nombre de vue -->
 
