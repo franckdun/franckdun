@@ -69,46 +69,39 @@ Je suis un développeur français passionné, bienvenue !</h1>
 -------------------------------------------------------------------------------------------------	
 
 <!-- Projects --> 
-<h2 align="center"> My new projects </h2>
+<h2 align="center"> My new project </h2>
 <div align="center">
   <table>
         <tr>
             <td width="50%">
-                <h3 align="center">[ ] Je recherche de l'aide pour **un projet blockchain.**</h3>
+                <h3 align="center">Je recherche de l'aide pour un projet blockchain.</h3>
                     <p align="center">
-                       ## Monnais locales sous blockchain : 
+                        Monnais locales sous blockchain 
                     </p>
-                    ```javascript
-							const franckdun = new Project_Blockchain();
-							function saveTheWorld() {
- 							if(franckdun.colaborater > 0){
-    						return console.log("we have no more oil but we have ideas");
-  							}
- 							return console.log("Sorry, i can do nothing.");
-							}
-					```
+                    <!-- envoyer un mail -->
+					<p align="center">
+						<a href="#">* SEND A EMAIL *</a>
+						<p style='margin-bottom: 20px'>
+						</p>
+					</p> 
             </td>
             <td width="50%">
-                <h3 align="center">idée générale;</h3>
-                 ```mermaid
-  						graph TD;
-      					monnais-->projets;
-      					projets-->developpement-local;
-      					developpement-local-->protection;
-      					protection-->activités-locales;
-      					activités-locales-->monnais;
-				```
+                <h3 align="center">Idée Générale</h3>
+             <p align="center">
+             	Protéger les territoires et la production alimentaire avec des monnais locales.
+             	Projet qui rentre dans un cadre ESS et environnemental.
+             	<br>
+             	Protect territories and food production with local currencies.
+              	Project that falls within an SSE and environmental framework.
+             </p>
             </td>
         </tr>
   </table>
 </div>
 
-
 <!-- 👯 Je cherche à collaborer **pour sauver le monde.** -->
 
- [ ] Je recherche de l'aide pour **un projet blockchain.**
- 
- ## Monnais locales sous blockchain :
+ ## Monnais locales sous blockchain : shemas général
 
 <!-- shemas --> 
 
@@ -129,15 +122,6 @@ function saveTheWorld() {
  return console.log("Sorry, i can do nothing.");
 }
 ```
-
-<!-- envoyer un mail -->
-
-<p align="center">
-    <a href="#">* SEND A EMAIL *</a>
-    <p style='margin-bottom: 20px'>
-    </p>
-</p>  
-
 
 <!-- nombre de vue -->
 
