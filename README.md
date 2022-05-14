@@ -5,9 +5,10 @@
 -->
 
 <!-- frise -->
+
 <h1 align="center"> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="75px">  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="76.5px">  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="75px"> </h1>
  
-<!-- Intro phrase --> 
+<!-- Intro phrase HI !--> 
  
 <h1 align="center">&#9568;&#9571; &#9553; &#8252; <br><br>
 Je suis un développeur français passionné, bienvenue !</h1>
@@ -28,7 +29,9 @@ Je suis un développeur français passionné, bienvenue !</h1>
   </div>
  
 <!--- Social network -->
+
 <h4 align="center">Connectez-vous avec moi sur :</h4>
+
 <!-- Icone codepen -->
 <p align="center"> 
 <a href="https://codepen.io/franckdun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/codepen.svg" alt="franckdun" height="50" width="50" /></a>
@@ -37,7 +40,7 @@ Je suis un développeur français passionné, bienvenue !</h1>
 
 <!-- Technos -->
 
-<h2 align="center">🛠 Languages and Tools 🛠</h2>
+<!-- <h2 align="center">🛠 Languages and Tools 🛠</h2> -->
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franckdun&theme=onedark&show_icons=true&locale=en&layout=compact" alt="franckdun" /> </p>
@@ -63,7 +66,7 @@ Je suis un développeur français passionné, bienvenue !</h1>
 <!-- github coupes blanches-->
 <!-- <p align="center"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franckdun" alt="franckdun" /></a > </p> -->
 
-----------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------	
 
 <!-- Projects 
 <h2 align="center"> My latest projects </h2>
@@ -73,27 +76,27 @@ Je suis un développeur français passionné, bienvenue !</h1>
             <td width="50%">
                 <h3 align="center">My Blog 📰</h3>
                 <p align="center">
-                    <a href="#" target="_blank" rel="noreferrer"> <img src="" alt="franckdun blog"/> </a>
+                    <a href="#" target="_blank" rel="noreferrer"> <img src="#" alt="franckdun blog"/> </a>
                     <p align="center">
                         This is my own blog where I share my knowledges
                     </p>
-            </p>
+            	</p>
             </td>
             <td width="50%">
                 <h3 align="center">Chillflix 🎶</h3>
                 <p align="center">
-                    <a href="https://www.chillflix.art/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
+                    <a href="#" target="_blank" rel="noreferrer"> <img src="#" alt="chillflix"/> </a>
                     <p align="center">
                         A chill radio from youtube to listen Lo-Fi music without being disturbed
                     </p>
-            </p>
+            	</p>
             </td>
         </tr>
         <tr>
             <td width="50%">
                 <h3 align="center">CCbox TV 📹</h3>
                 <p align="center">
-                    <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer"> <img src="./static/ccbox-tv.gif" alt="ccbox-tv"/> </a>
+                    <a href="#" target="_blank" rel="noreferrer"> <img src="#" alt="ccbox-tv"/> </a>
                     <p align="center">
                         A netflix like for the Youtube Channel Cacabox TV
                     </p>
@@ -107,7 +110,7 @@ Je suis un développeur français passionné, bienvenue !</h1>
                     <p align="center">
                         NPM repository created with a friend to help web developper
                     </p>
-            </p>
+            	</p>
             </td>
         </tr>
         <tr>
