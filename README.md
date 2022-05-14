@@ -162,8 +162,6 @@ Je suis un développeur français passionné, bienvenue !</h1>
   </table>
 </div>
 -->
--------------------------------------------------------------------------------------------------
-
 
 <!-- 👯 Je cherche à collaborer **pour sauver le monde.** -->
 
@@ -176,7 +174,8 @@ Je suis un développeur français passionné, bienvenue !</h1>
       monnais-->projets;
       projets-->developpement-local;
       developpement-local-->protection;
-      protection-->monnais;
+      protection-->activités-locales;
+      activités-locales-->monnais;
 ```
 
 <p align="center">
