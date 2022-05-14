@@ -18,26 +18,25 @@ Je suis un développeur français passionné, bienvenue !</h1>
 
 <div align="center">
   
-[x] Je travaille actuellement en **indépendant.**
+ Je travaille actuellement en **indépendant.**
 
-[x] J'apprends actuellement **l'écosystem Ethereum.**
+ J'apprends actuellement **l'écosystem Ethereum.**
 
+ Tous mes projets sont disponibles sur [https://github.com/franckdun](https://github.com/franckdun)
 
-[x] Tous mes projets sont disponibles sur [https://github.com/franckdun](https://github.com/franckdun)
-<!-- 💬 Interrogez-moi sur **"le future à venir".** -->
-[x] Me joindre: **scorven7@gmail.com**
-  </div>
+ Me joindre: **scorven7@gmail.com**
  
-<!--- Social network -->
-
-<h4 align="center">Connectez-vous avec moi sur :</h4>
+ Connectez-vous avec moi sur :
 
 <!-- Icone codepen -->
+
 <p align="center"> 
-<a href="https://codepen.io/franckdun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/codepen.svg" alt="franckdun" height="50" width="50" /></a>
+	<a href="https://codepen.io/franckdun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/codepen.svg" alt="franckdun" height="50" width="50" /></a>
 </p>
 <br>
 
+  </div>
+ 
 <!-- Technos -->
 
 <!-- <h2 align="center">🛠 Languages and Tools 🛠</h2> -->
