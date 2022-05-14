@@ -188,6 +188,6 @@ Je suis un développeur français passionné, bienvenue !</h1>
 
 <!-- nombre de vue -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=franckdun&label=Profile%20views&color=0e75b6&style=flat" alt="franckdun" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=franckdun&label=Profile%20views&color=0e75b6&style=flat" alt="franckdun" /> </p>
 
 
