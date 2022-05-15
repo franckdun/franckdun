@@ -1,11 +1,11 @@
-
-
 <!-- username 
 <h2 align="center"> ✨ <img src=" https://komarev.com/ghpvc/?username=franckdun&label=Profile%20views&color=0e75b6&style=flat" alt="franckdun" /> ✨ </h2>
 -->
-![gitartwork](gitartwork.svg)
-<!-- frise -->
 
+<!-- animation -->
+![gitartwork](gitartwork.svg)
+
+<!-- frise -->
 <h1 align="center"> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="75px">  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="76.5px">  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="75px"> </h1>
  
 <!-- Intro phrase HI !--> 
@@ -29,13 +29,15 @@ Je suis un développeur français passionné, bienvenue !</h1>
  Connectez-vous avec moi sur :
 
 <!-- Icone codepen -->
-
 <p align="center"> 
 	<a href="https://codepen.io/franckdun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/codepen.svg" alt="franckdun" height="50" width="50" /></a>
+<!-- Icone mega -->	
+	<a href="https://mega.nz/C!wTRmAC4a" target="blank"><img align="center" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white" alt="franckdun" height="50" width="50" /></a>
 </p>
+
 <br>
 
-  </div>
+</div>
  
 <!-- Technos -->
 
@@ -56,16 +58,14 @@ Je suis un développeur français passionné, bienvenue !</h1>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=franckdun&theme=onedark&show_icons=true&locale=fr" alt="franckdun" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franckdun&theme=onedark&" alt="franckdun" />
 </p>
 
-
-<!-- github coupes sombre-->
-
+<!-- github coupes stats sombre-->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franckdun&theme=onedark" alt="franckdun" /></a > </p>
 
 <!-- github coupes blanches-->
 <!-- <p align="center"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franckdun" alt="franckdun" /></a > </p> -->
 
--------------------------------------------------------------------------------------------------	
+-------------------------------------------------------------------------
 
 <!-- Projects --> 
 <h2 align="center"> My new project </h2>
@@ -80,8 +80,6 @@ Je suis un développeur français passionné, bienvenue !</h1>
                     <!-- envoyer un mail -->
 					<p align="center">
 						<a href="#">* SEND A EMAIL *</a>
-						<p style='margin-bottom: 20px'>
-						</p>
 					</p> 
             </td>
             <td width="50%">
