@@ -30,7 +30,7 @@ Je suis un développeur français passionné, bienvenue !</h1>
 
 <!-- Icone codepen -->
 <p align="center"> 
-	<a href="https://codepen.io/franckdun" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="franckdun" height="25" width="80" /></a>
+	<a href="https://codepen.io/franckdun" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="franckdun" height="35" width="80" /></a>
 	&nbsp;&nbsp;
 <!-- Icone mega -->	
 	<a href="https://mega.nz/C!wTRmAC4a" target="blank"><img align="center" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white" alt="franckdun" height="25" width="70" /></a>
