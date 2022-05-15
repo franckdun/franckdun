@@ -121,10 +121,10 @@ function saveTheWorld() {
 ```
 
 [![img_contact](./img/globe-light.svg)](www.mewe.com/i/franckdunoye#gh-light-mode-only)
-[![img_contact](./img/globe-light.svg)](www.mewe.com/i/franckdunoye#gh-dark-mode-only)
+[![img_contact](./img/globe-dark.svg)](www.mewe.com/i/franckdunoye#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/twitter.svg)](www.mewe.com/i/franckdunoye#gh-light-mode-only)
-[![img_contact](./img/twitter.svg)](www.mewe.com/i/franckdunoye#gh-dark-mode-only)
+[![img_contact](./img/twitter-light.svg)](www.mewe.com/i/franckdunoye#gh-light-mode-only)
+[![img_contact](./img/twitter-dark.svg)](www.mewe.com/i/franckdunoye#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/youtube-light.svg)](https://go.mikecodeur.com/youtube#gh-light-mode-only)
 [![img_contact](./img/youtube-dark.svg)](https://go.mikecodeur.com/youtube#gh-dark-mode-only)
