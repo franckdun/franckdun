@@ -32,7 +32,7 @@ Je suis un développeur français passionné, bienvenue !</h1>
 <p align="center"> 
 	<a href="https://codepen.io/franckdun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/codepen.svg" alt="franckdun" height="25" width="25" /></a>
 <!-- Icone mega -->	
-	<a href="https://mega.nz/C!wTRmAC4a" target="blank"><img align="center" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white" alt="franckdun" height="25" width="65" /></a>
+	<a href="https://mega.nz/C!wTRmAC4a" target="blank"><img align="center" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white" alt="franckdun" height="25" width="70" /></a>
 </p>
 
 <br>
