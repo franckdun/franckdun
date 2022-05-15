@@ -36,9 +36,22 @@ Je suis un développeur français passionné, bienvenue !</h1>
 </p>
 <br>
 </div>
-&nbsp;&nbsp;
-[![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)]
-&nbsp;&nbsp;
+
+<p align="center">
+	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="franckdun" height="25" width="25" /></a>
+	&nbsp;&nbsp;
+	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="franckdun" height="25" width="25" /></a>
+	&nbsp;&nbsp;
+	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" alt="franckdun" height="25" width="25" /></a>
+	&nbsp;&nbsp;
+	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="franckdun" height="25" width="25" /></a>
+	&nbsp;&nbsp;
+	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white" alt="franckdun" height="25" width="25" /></a>
+	&nbsp;&nbsp;
+	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="franckdun" height="25" width="25" /></a>
+</p> 
+
+<!--
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 &nbsp;&nbsp;
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
@@ -48,6 +61,7 @@ Je suis un développeur français passionné, bienvenue !</h1>
 ![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)
 &nbsp;&nbsp;
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+-->
 
  
 <!-- Technos -->
