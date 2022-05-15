@@ -127,7 +127,7 @@ function saveTheWorld() {
 [![img_contact](./img/twitter-dark.svg)](www.mewe.com/i/franckdunoye#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/youtube-light.svg)](https://go.mikecodeur.com/youtube#gh-light-mode-only)
-[![img_contact](./img/youtube-dark.svg)](https://go.mikecodeur.com/youtube#gh-dark-mode-only)
+[![img_contact](./img/youtube-dark.svg)](www.mewe.com/i/franckdunoye#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/linkedin-light.svg)](www.mewe.com/i/franckdunoye#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](www.mewe.com/i/franckdunoye#gh-dark-mode-only)
