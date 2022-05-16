@@ -70,7 +70,7 @@ Je suis un développeur français passionné, bienvenue !</h1>
 
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franckdun&theme=onedark&show_icons=true&locale=fr" alt="franckdun" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franckdun&theme=onedark&" alt="franckdun" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franckdun&theme=onedark&show_icons=true&locale=fr" alt="franckdun" /><br> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franckdun&theme=onedark&" alt="franckdun" />
 </p>
 
 <!-- github coupes stats sombre-->
