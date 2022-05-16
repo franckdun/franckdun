@@ -70,7 +70,8 @@ Je suis un développeur français passionné, bienvenue !</h1>
 
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franckdun&theme=onedark&show_icons=true&locale=fr" alt="franckdun" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franckdun&theme=onedark&" alt="franckdun" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franckdun&theme=onedark&show_icons=true&locale=fr" alt="franckdun" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franckdun&theme=onedark&" alt="franckdun" />
 </p>
 
 <!-- github coupes stats sombre-->
@@ -81,7 +82,25 @@ Je suis un développeur français passionné, bienvenue !</h1>
 <!-- <p align="center"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franckdun" alt="franckdun" /></a > </p> -->
 
 -------------------------------------------------------------------------
+### 🔥 Recent GitHub Activity
+<!--START_SECTION:activity-->
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--END_SECTION:activity-->
+------------------------------------------------------------------
 <!-- Projects --> 
 <h2 align="center"> My new project </h2>
 <div align="center">
