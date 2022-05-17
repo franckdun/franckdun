@@ -10,7 +10,7 @@
  
 <!-- Intro phrase HI !--> 
  
-<h1 align="center">&#9568;&#9571; &#9553; &#8252; <br><br>
+<h1 align="center"><a href="https://franckdun.github.io/002_Anim-texte-js/" target="blank">&#9568;&#9571; &#9553; &#8252;</a> <br><br>
 Je suis un développeur français passionné, bienvenue !</h1>
 
 
@@ -153,7 +153,7 @@ function saveTheWorld() {
  return console.log("Sorry, i can do nothing.");
 }
 ```
-
+<!-- reseaux sociaux -->
 [![img_contact](./img/globe-light.svg)](www.mewe.com/i/franckdunoye#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](www.mewe.com/i/franckdunoye#gh-dark-mode-only)
 &nbsp;&nbsp;
