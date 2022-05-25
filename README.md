@@ -140,11 +140,11 @@ I am a passionate French developer, welcome!</h1>
 
 ```mermaid
   graph TD;
-      monnais-->projets;
-      projets-->developpement-local;
-      developpement-local-->protection;
-      protection-->activités-locales;
-      activités-locales-->monnais;
+       money-->projects;
+       projects-->local-development;
+       local-development-->protection;
+       protection-->local-activities;
+       local-activities-->money;
 ```
 ```javascript
 const franckdun = new Project_Blockchain();
