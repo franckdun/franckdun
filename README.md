@@ -11,22 +11,22 @@
 <!-- Intro phrase HI !--> 
  
 <h1 align="center"><a href="https://franckdun.github.io/002_Anim-texte-js/" target="blank">&#9568;&#9571; &#9553; &#8252;</a> <br><br>
-Je suis un développeur français passionné, bienvenue !</h1>
+I am a passionate French developer, welcome!</h1>
 
 
 <!-- presentation -->
 
 <div align="center">
   
- Je travaille actuellement en **indépendant.**
+ I am currently working as a #*freelancer.*
 
- J'apprends actuellement **l'écosystem Ethereum.**
+ I am currently learning #*the Ethereum ecosystem.*
 
- Tous mes projets sont disponibles sur [https://github.com/franckdun](https://github.com/franckdun)
+ All my projects are available [here](https://github.com/franckdun?tab=repositories)
 
- Me joindre: **scorven7@gmail.com**
+ Contact me : *scorven7@gmail.com*
  
- Connectez-vous avec moi sur :
+ Connect with me on :
 
 <!-- hyperledger -->
 <p align="center">
