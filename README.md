@@ -18,13 +18,13 @@ I am a passionate French developer, welcome!</h1>
 
 <div align="center">
   
- I am currently working as a #*freelancer.*
+ I am currently working as a ##*freelancer.*
 
- I am currently learning #*the Ethereum ecosystem.*
+ I am currently learning ##*the Ethereum ecosystem.*
 
  All my projects are available [here](https://github.com/franckdun?tab=repositories)
 
- Contact me : *scorven7@gmail.com*
+ Contact me : ##*scorven7@gmail.com*
  
  Connect with me on :
 
@@ -109,9 +109,9 @@ I am a passionate French developer, welcome!</h1>
   <table>
         <tr>
             <td width="50%">
-                <h3 align="center">Je recherche de l'aide pour un projet blockchain.</h3>
+                <h3 align="center">I am looking for help for a blockchain project.</h3>
                     <p align="center">
-                        Monnais locales sous blockchain 
+                        Local currencies on blockchain. 
                     </p>
                     <!-- envoyer un mail -->
 					<p align="center">
@@ -119,7 +119,7 @@ I am a passionate French developer, welcome!</h1>
 					</p> 
             </td>
             <td width="50%">
-                <h3 align="center">Idée Générale</h3>
+                <h3 align="center">General idea</h3>
              <p align="center">
              	Protéger les territoires et la production alimentaire avec des monnais locales.
              	Projet qui rentre dans un cadre ESS et environnemental.
