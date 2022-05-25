@@ -11,7 +11,7 @@
 <!-- Intro phrase HI !--> 
  
 <h1 align="center"><a href="https://franckdun.github.io/002_Anim-texte-js/" target="blank" width="76.5px" text-decoration="strong" >&#9568;&#9571; &#9553; &#8252;</a> <br><br>
-I am a passionate French developer, welcome!</h1>
+I am a passionate French developer, welcome!<img src="./img/tada.png" width="75px"></h1>
 
 
 <!-- presentation -->
