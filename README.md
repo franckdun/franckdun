@@ -134,7 +134,7 @@ I am a passionate French developer, welcome ! </h1>
 
 <!-- 👯 Je cherche à collaborer **pour sauver le monde.** -->
 
- ## Monnais locales sous blockchain : shemas général
+ ## Local currencies on blockchain : shemas général
 
 <!-- shemas --> 
 
