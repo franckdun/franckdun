@@ -18,13 +18,13 @@ I am a passionate French developer, welcome!</h1>
 
 <div align="center">
   
- I am currently working as a ##*freelancer.*
+ I am currently working as a *freelancer.*
 
- I am currently learning ##*the Ethereum ecosystem.*
+ I am currently learning *the Ethereum ecosystem.*
 
  All my projects are available [here](https://github.com/franckdun?tab=repositories)
 
- Contact me : ##*scorven7@gmail.com*
+ Contact me : *scorven7@gmail.com*
  
  Connect with me on :
 
