@@ -103,8 +103,10 @@ I am a passionate French developer, welcome ! </h1>
 <!--END_SECTION:activity-->
 ------------------------------------------------------------------
 <!-- Projects --> 
+
 <h2 align="center"> My new project </h2>
 <div align="center">
+	
   <table>
         <tr>
             <td width="50%">
