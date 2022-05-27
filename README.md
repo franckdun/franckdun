@@ -1,8 +1,4 @@
-<!-- username 
-<h2 align="center"> ✨ <img src=" https://komarev.com/ghpvc/?username=franckdun&label=Profile%20views&color=0e75b6&style=flat" alt="franckdun" /> ✨ </h2>
--->
 
-<!-- animation -->
 
 <!-- frise -->
 <h1 align="center"> <img src="./img/giphy005.webp" width="75px">  <img src="./img/gitcat.webp" width="76.5px">  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="75px"> </h1>
@@ -39,19 +35,6 @@ I am a passionate French developer, welcome ! </h1>
 <!-- Codecademy -->
 	&nbsp;&nbsp;
 	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="franckdun" height="25" width="80" /></a>
-</p>
-<!--
-<p align="center">
-	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" height="25" width="80" /></a>
-	&nbsp;&nbsp;
-	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" alt="binance" height="25" width="80" /></a>
-	&nbsp;&nbsp;
-	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="ethereum" height="25" width="80" /></a>
-	&nbsp;&nbsp;
-	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white" alt="stellar" height="25" width="80" /></a>
--->
-	
-</p> 
 <br>
 </div>
  
@@ -85,21 +68,6 @@ I am a passionate French developer, welcome ! </h1>
 -------------------------------------------------------------------------
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--END_SECTION:activity-->
 ------------------------------------------------------------------
 <!-- Projects --> 
