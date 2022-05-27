@@ -3,8 +3,7 @@
 -->
 
 <!-- animation -->
-<!--![gitartwork](gitartwork.svg)-->
-[![gitartwork from a contribution graph](https://github.com/franckdun/franckdun/actions/workflows/gitartwork.yml/badge.svg)](https://github.com/franckdun/franckdun/actions/workflows/gitartwork.yml)
+
 <!-- frise -->
 <h1 align="center"> <img src="./img/giphy005.webp" width="75px">  <img src="./img/gitcat.webp" width="76.5px">  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="75px"> </h1>
  
