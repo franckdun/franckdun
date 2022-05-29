@@ -124,20 +124,21 @@ function saveTheWorld() {
 ```
 <!-- reseaux sociaux -->
 
-[![img_contact](./img/globe-light.svg)](#)
-[![img_contact](./img/globe-dark.svg)](#)
+[![img_contact](./img/globe-light.svg)](www.mewe.com/i/#gh-light-mode-only)
+[![img_contact](./img/globe-dark.svg)](www.mewe.com/i/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/twitter-light.svg)](#)
-[![img_contact](./img/twitter-dark.svg)](#)
+[![img_contact](./img/twitter-light.svg)](www.mewe.com/i/#gh-light-mode-only)
+[![img_contact](./img/twitter-dark.svg)](www.mewe.com/i/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/youtube-light.svg)](#)
-[![img_contact](./img/youtube-dark.svg)](#)
+[![img_contact](./img/youtube-light.svg)](www.mewe.com/i/#gh-light-mode-only)
+[![img_contact](./img/youtube-dark.svg)](www.mewe.com/i/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](#)
-[![img_contact](./img/linkedin-dark.svg)](#)
+[![img_contact](./img/linkedin-light.svg)](www.mewe.com/i/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](www.mewe.com/i/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/instagram-light.svg)](#)
-[![img_contact](./img/instagram-dark.svg)](#)
+[![img_contact](./img/instagram-light.svg)](www.mewe.com/i/#gh-light-mode-only)
+[![img_contact](./img/instagram-dark.svg)](www.mewe.com/i/#gh-dark-mode-only)
+
 
 <!-- nombre de vue -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=franckdun&label=Profile%20views&color=0e75b6&style=flat" alt="compteur" /> </p>
