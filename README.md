@@ -8,49 +8,53 @@
 <h1 align="center"><a href="https://franckdun.github.io/002_Anim-texte-js/" target="blank" width="76.5px" text-decoration="strong" >&#9568;&#9571; &#9553; &#8252;</a> <br><br>
 I am a passionate French developer, welcome ! </h1>
 
-
 <!-- presentation -->
-
-* [I am currently working as a *Freelancer.*]()
+<div align="center">
+  <table>
+	<tr>
+	   <td width="50%">
+		
+* [Currently working as a *Freelancer.*]()
 	
-* [I am currently learning *the Ethereum ecosystem.*]()	
+* [Currently learning *the Ethereum ecosystem.*]()	
 
-* All my projects are available [here.](https://github.com/franckdun?tab=repositories)
+* My projects are available [here.](https://github.com/franckdun?tab=repositories)
 
 * Contact me : *scorven7@gmail.com*
  
-* Connect with me on :
-<div align="center">
+* Connect with me on :		
+
 <!-- hyperledger -->
 <p align="center">
-	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="franckdun" height="25" width="80" /></a>
+	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="icone hyperledger" height="25" width="80" /></a>
 	&nbsp;&nbsp;
 <!-- Icone codepen --> 
-	<a href="https://codepen.io/franckdun" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="franckdun" height="25" width="90" /></a>
+	<a href="https://codepen.io/franckdun" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="icone codepen" height="25" width="90" /></a>
 	&nbsp;&nbsp;
 <!-- Icone mega -->	
-	<a href="https://mega.nz/C!wTRmAC4a" target="blank"><img align="center" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white" alt="franckdun" height="25" width="70" /></a>
+	<a href="https://mega.nz/C!wTRmAC4a" target="blank"><img align="center" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white" alt="icone mega" height="25" width="70" /></a>
 <!-- Codecademy -->
 	&nbsp;&nbsp;
-	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="franckdun" height="25" width="80" /></a>
-<br>
-</div>
- 
+	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="icone codecademy" height="25" width="80" /></a></p>
+	   </td>  
+	     <td width="50%">
+
 <!-- Technos -->
-
-<!-- <h2 align="center">🛠 Languages and Tools 🛠</h2> -->
-
+ <h2 align="center">🛠 Currently 🛠</h2> 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franckdun&theme=onedark&show_icons=true&locale=en&layout=compact" alt="franckdun" /> </p>
-  
-<h1 align="center"> 
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git- scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer "> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https:// www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width=" 40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="moka" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="réagir" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height=" 40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel= "noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height=" 40"/></a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-  
-</h1>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franckdun&theme=onedark&show_icons=true&locale=en&layout=compact" alt="franckdun" /> </p>		   
+	   </td>  
+	 </tr>
+ </table>
+</div>
+
 <br>
 
-
+<h2 align="center">🛠 Languages and Tools 🛠</h2> 		
+<h1 align="center">   
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git- scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer "> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https:// www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width=" 40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="moka" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="réagir" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height=" 40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel= "noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height=" 40"/></a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  
+</h1>
+<!-- PANNEAUX DE STASTISTIQUES -->
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=franckdun&theme=onedark&show_icons=true&locale=fr" alt="franckdun" />
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franckdun&theme=onedark&" alt="franckdun" />
@@ -70,7 +74,7 @@ I am a passionate French developer, welcome ! </h1>
 <!--END_SECTION:activity-->
 ------------------------------------------------------------------
 <!-- Projects --> 
-<h2 align="center"> My new project </h2>
+<h2 align="center"> New project </h2>
 <div align="center">
 	
   <table>
@@ -80,11 +84,10 @@ I am a passionate French developer, welcome ! </h1>
                     <p align="center">
                         Local currencies on blockchain. 
                     </p>
-                    <!-- envoyer un mail -->
-					<p align="center">
-						<a href="#">* SEND A EMAIL *</a>
-					</p> 
-            </td>
+		    <p align="center">
+			    <a href="#">* SEND A EMAIL *</a>
+		    </p>
+		</td>
             <td width="50%">
                 <h3 align="center">General idea</h3>
              <p align="center">
