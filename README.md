@@ -40,7 +40,7 @@ I am a passionate French developer, welcome ! </h1>
 	     <td width="50%">
 
 <!-- Technos -->
- <h2 align="center">🛠 Currently 🛠</h2> 
+ <h2 align="center">🔥Currently🔥</h2> 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franckdun&theme=onedark&show_icons=true&locale=en&layout=compact" alt="franckdun" /> </p>		   
 	   </td>  
@@ -52,7 +52,8 @@ I am a passionate French developer, welcome ! </h1>
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2> 		
 <h1 align="center">   
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git- scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer "> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https:// www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width=" 40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="moka" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="réagir" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height=" 40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel= "noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height=" 40"/></a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git- scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer "> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https:// www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width=" 40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="moka" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="réagir" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height=" 40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel= "noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height=" 40"/></a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+
 </h1>
 <!-- PANNEAUX DE STASTISTIQUES -->
 <p align="center"> 
@@ -67,16 +68,15 @@ I am a passionate French developer, welcome ! </h1>
 <!-- github coupes blanches-->
 <!-- <p align="center"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franckdun" alt="franckdun" /></a > </p> -->
 
--------------------------------------------------------------------------
-### 🔥 Recent GitHub Activity
+
+[![img_contact](./img/octocat.png)]()Recent GitHub Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 ------------------------------------------------------------------
 <!-- Projects --> 
-<h2 align="center"> New project </h2>
-<div align="center">
-	
+<h2 align="center">🔥New project🔥</h2>
+<div align="center">	
   <table>
         <tr>
             <td width="50%">
@@ -101,11 +101,8 @@ I am a passionate French developer, welcome ! </h1>
         </tr>
   </table>
 </div>
-
 <!-- 👯 Je cherche à collaborer **pour sauver le monde.** -->
-
  ## Local currencies on blockchain : shemas général
-
 <!-- shemas --> 
 
 ```mermaid
@@ -126,24 +123,23 @@ function saveTheWorld() {
 }
 ```
 <!-- reseaux sociaux -->
-[![img_contact](./img/globe-light.svg)](www.mewe.com/i/franckdunoye#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](www.mewe.com/i/franckdunoye#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/twitter-light.svg)](www.mewe.com/i/franckdunoye#gh-light-mode-only)
-[![img_contact](./img/twitter-dark.svg)](www.mewe.com/i/franckdunoye#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/youtube-light.svg)](https://go.mikecodeur.com/youtube#gh-light-mode-only)
-[![img_contact](./img/youtube-dark.svg)](www.mewe.com/i/franckdunoye#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](www.mewe.com/i/franckdunoye#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](www.mewe.com/i/franckdunoye#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/instagram-light.svg)](www.mewe.com/i/franckdunoye#gh-light-mode-only)
-[![img_contact](./img/instagram-dark.svg)](www.mewe.com/i/franckdunoye#gh-dark-mode-only)
 
+[![img_contact](./img/globe-light.svg)](#)
+[![img_contact](./img/globe-dark.svg)](#)
+&nbsp;&nbsp;
+[![img_contact](./img/twitter-light.svg)](#)
+[![img_contact](./img/twitter-dark.svg)](#)
+&nbsp;&nbsp;
+[![img_contact](./img/youtube-light.svg)](#)
+[![img_contact](./img/youtube-dark.svg)](#)
+&nbsp;&nbsp;
+[![img_contact](./img/linkedin-light.svg)](#)
+[![img_contact](./img/linkedin-dark.svg)](#)
+&nbsp;&nbsp;
+[![img_contact](./img/instagram-light.svg)](#)
+[![img_contact](./img/instagram-dark.svg)](#)
 
 <!-- nombre de vue -->
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=franckdun&label=Profile%20views&color=0e75b6&style=flat" alt="franckdun" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=franckdun&label=Profile%20views&color=0e75b6&style=flat" alt="compteur" /> </p>
 
 
