@@ -68,7 +68,7 @@ I am a passionate French developer, welcome ! </h1>
 <!-- github coupes blanches-->
 <!-- <p align="center"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franckdun" alt="franckdun" /></a > </p> -->
 
-
+------------------------------------------------------------------
 [![img_contact](./img/octocat.png)]()Recent GitHub Activity
 <!--START_SECTION:activity-->
 
