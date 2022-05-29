@@ -11,18 +11,16 @@ I am a passionate French developer, welcome ! </h1>
 
 <!-- presentation -->
 
-<div align="center">
-  
- I am currently working as a *freelancer.*
+* [I am currently working as a *Freelancer.*]()
+	
+* [I am currently learning *the Ethereum ecosystem.*]()	
 
- I am currently learning *the Ethereum ecosystem.*
+* All my projects are available [here.](https://github.com/franckdun?tab=repositories)
 
- All my projects are available [here](https://github.com/franckdun?tab=repositories)
-
- Contact me : *scorven7@gmail.com*
+* Contact me : *scorven7@gmail.com*
  
- Connect with me on :
-
+* Connect with me on :
+<div align="center">
 <!-- hyperledger -->
 <p align="center">
 	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="franckdun" height="25" width="80" /></a>
@@ -68,10 +66,10 @@ I am a passionate French developer, welcome ! </h1>
 -------------------------------------------------------------------------
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 ------------------------------------------------------------------
 <!-- Projects --> 
-
 <h2 align="center"> My new project </h2>
 <div align="center">
 	
