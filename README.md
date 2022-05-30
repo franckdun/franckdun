@@ -1,7 +1,7 @@
 
 
 <!-- frise -->
-<h1 align="center"> <img src="./img/giphy005.webp" width="75px">  <img src="./img/gitcat.webp" width="76.5px">  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="75px"> </h1>
+<h1 align="center"> <img src="./img/giphy005.webp" width="75px">  <img src="./img/gitcat.webp" width="76.5px">  <img src="https://github.com/franckdun/ImageBanck/blob/main/img/giphy005.webp" width="75px"> </h1>
  
 <!-- Intro phrase HI !--> 
  
@@ -69,7 +69,7 @@ I am a passionate French developer, welcome ! </h1>
 <!-- <p align="center"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franckdun" alt="franckdun" /></a > </p> -->
 
 ------------------------------------------------------------------
-[![img_contact](./img/octocat.png)]()Recent GitHub Activity
+[![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)]()Recent GitHub Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
@@ -124,20 +124,20 @@ function saveTheWorld() {
 ```
 <!-- reseaux sociaux -->
 
-[![img_contact](./img/globe-light.svg)](www.mewe.com/i/#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](www.mewe.com/i/#gh-dark-mode-only)
+[![img_contact](./img/globe-light.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-light-mode-only)
+[![img_contact](./img/globe-dark.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/twitter-light.svg)](www.mewe.com/i/#gh-light-mode-only)
-[![img_contact](./img/twitter-dark.svg)](www.mewe.com/i/#gh-dark-mode-only)
+[![img_contact](./img/twitter-light.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-light-mode-only)
+[![img_contact](./img/twitter-dark.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/youtube-light.svg)](www.mewe.com/i/#gh-light-mode-only)
-[![img_contact](./img/youtube-dark.svg)](www.mewe.com/i/#gh-dark-mode-only)
+[![img_contact](./img/youtube-light.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-light-mode-only)
+[![img_contact](./img/youtube-dark.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](www.mewe.com/i/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](www.mewe.com/i/#gh-dark-mode-only)
+[![img_contact](./img/linkedin-light.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/instagram-light.svg)](www.mewe.com/i/#gh-light-mode-only)
-[![img_contact](./img/instagram-dark.svg)](www.mewe.com/i/#gh-dark-mode-only)
+[![img_contact](./img/instagram-light.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-light-mode-only)
+[![img_contact](./img/instagram-dark.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-dark-mode-only)
 
 
 <!-- nombre de vue -->
