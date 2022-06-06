@@ -38,7 +38,7 @@ I am a passionate French developer, welcome ! </h1>
 	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="icone codecademy" height="25" width="80" /></a>
   <!-- IPFS -->
 	&nbsp;&nbsp;
-	<a href="#" target="blank"><img align="center" src="./img/ipfs.gif" alt="icone ipfs" height="25" width="80" /></a></p>
+	<a href="#" target="blank"><img align="center" src="./img/ipfs.gif" alt="icone ipfs" height="50" width="160" /></a></p>
 	   </td>  
 	     <td width="50%">
 
