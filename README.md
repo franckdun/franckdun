@@ -109,7 +109,7 @@ I am a passionate French developer, welcome ! </h1>
 ```mermaid
   graph TD;
        money-->Projects;
-       projects-->local-development;
+       Projects-->local-development;
        local-development-->protection;
        protection-->local-activities;
        local-activities-->money;
