@@ -112,6 +112,7 @@ I am a passionate French developer, welcome ! </h1>
        Projects-->local-development;
        local-development-->protection;
        protection-->local-activities;
+       protection-->money;
        local-activities-->money;
 ```
 ```javascript
