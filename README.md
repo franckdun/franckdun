@@ -125,9 +125,9 @@ I am a passionate French developer, welcome ! </h1>
 const franckdun = new Project_Blockchain();
 function autonomousWorld() {
   if(franckdun.colaborater > 0){
-    return console.log("we have no more oil but we have ideas");
+    return console.log("Great, I walk with you! We have no more oil but we still have ideas!");
   }
- return console.log("Sorry, i can do nothing.");
+ return console.log("Sorry, i can do nothing for save the world.");
 }
 ```
 <!-- reseaux sociaux -->
