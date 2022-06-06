@@ -117,6 +117,8 @@ I am a passionate French developer, welcome ! </h1>
        New-local-activities-->local-money;
        New-local-activities-->money;
        money-->New-Projects;
+       New-Projects-->ESS-Projects;
+
 ```
 ```javascript
 const franckdun = new Project_Blockchain();
