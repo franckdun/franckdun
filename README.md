@@ -108,13 +108,13 @@ I am a passionate French developer, welcome ! </h1>
 
 ```mermaid
   graph TD;
-       money-->Projects;
-       Projects-->local-development;
+       local-money-->Projects;
+       ESS-Projects-->local-development;
        local-development-->local-protection;
-       local-development-->money;
+       local-development-->local-money;
        local-protection-->New-local-activities;
-       local-protection-->money;
-       New-local-activities-->money;
+       local-protection-->local-money;
+       New-local-activities-->local-money;
 ```
 ```javascript
 const franckdun = new Project_Blockchain();
