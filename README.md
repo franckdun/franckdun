@@ -117,6 +117,7 @@ I am a passionate French developer, welcome ! </h1>
        New-local-activities-->local-money;
        New-local-activities-->money;
        money-->New-Projects;
+       money-->local-money;
        New-Projects-->ESS-Projects;
 
 ```
