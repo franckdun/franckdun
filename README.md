@@ -110,10 +110,11 @@ I am a passionate French developer, welcome ! </h1>
   graph TD;
        money-->Projects;
        Projects-->local-development;
-       local-development-->protection;
-       protection-->local-activities;
-       protection-->money;
-       local-activities-->money;
+       local-development-->local-protection;
+       local-development-->money;
+       local-protection-->New-local-activities;
+       local-protection-->money;
+       New-local-activities-->money;
 ```
 ```javascript
 const franckdun = new Project_Blockchain();
