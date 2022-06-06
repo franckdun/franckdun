@@ -20,8 +20,6 @@ I am a passionate French developer, welcome ! </h1>
 
 * My projects are available [here.](https://github.com/franckdun?tab=repositories)
 
-* Contact me : *scorven7@gmail.com*
- 
 * Connect with me on :		
 
 <!-- hyperledger -->
