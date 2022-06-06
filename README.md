@@ -123,7 +123,7 @@ I am a passionate French developer, welcome ! </h1>
 ```
 ```javascript
 const franckdun = new Project_Blockchain();
-function saveTheWorld() {
+function autonomousWorld() {
   if(franckdun.colaborater > 0){
     return console.log("we have no more oil but we have ideas");
   }
