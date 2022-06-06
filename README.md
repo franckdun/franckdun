@@ -108,7 +108,7 @@ I am a passionate French developer, welcome ! </h1>
 
 ```mermaid
   graph TD;
-       money--><a href="">Projects</a>;
+       money-->Projects;
        projects-->local-development;
        local-development-->protection;
        protection-->local-activities;
