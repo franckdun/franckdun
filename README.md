@@ -14,7 +14,7 @@ I am a passionate French developer, welcome ! </h1>
 	<tr>
 	   <td width="50%">
 		
-* [Currently working as a *Freelancer.*]()
+* [I'm a freelance Dev]()
 	
 * [Currently learning *the Ethereum ecosystem.*]()	
 
