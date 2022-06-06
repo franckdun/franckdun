@@ -108,7 +108,7 @@ I am a passionate French developer, welcome ! </h1>
 
 ```mermaid
   graph TD;
-       local-money-->Projects;
+       local-money-->New-Projects;
        ESS-Projects-->local-development;
        local-development-->local-protection;
        local-development-->local-money;
@@ -116,6 +116,7 @@ I am a passionate French developer, welcome ! </h1>
        local-protection-->local-money;
        New-local-activities-->local-money;
        New-local-activities-->money;
+       money-->New-Projects;
 ```
 ```javascript
 const franckdun = new Project_Blockchain();
