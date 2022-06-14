@@ -30,7 +30,7 @@ I am a passionate French developer, welcome ! </h1>
 	<a href="https://codepen.io/franckdun" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="icone codepen" height="25" width="90" /></a>
 	&nbsp;&nbsp;
 <!-- Icone mega -->	
-	<a href="https://mega.nz/C!wTRmAC4a" target="blank"><img align="center" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white" alt="icone mega" height="25" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white" alt="icone mega" height="25" width="70" /></a>
 <!-- Codecademy -->
 	&nbsp;&nbsp;
 	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="icone codecademy" height="25" width="80" /></a>
