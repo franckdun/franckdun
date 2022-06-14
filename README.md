@@ -24,16 +24,16 @@ I am a passionate French developer, welcome ! </h1>
 
 <!-- hyperledger -->
 <p align="center">
-	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="icone hyperledger" height="25" width="80" /></a>
+	<a href="https://franckdun.github.io/002_Anim-texte-js/" target="blank"><img align="center" src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="icone hyperledger" height="25" width="80" /></a>
 	&nbsp;&nbsp;
 <!-- Icone codepen --> 
 	<a href="https://codepen.io/franckdun" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="icone codepen" height="25" width="90" /></a>
 	&nbsp;&nbsp;
 <!-- Icone mega -->	
-	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white" alt="icone mega" height="25" width="70" /></a>
+	<a href="https://franckdun.github.io/002_Anim-texte-js/" target="blank"><img align="center" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white" alt="icone mega" height="25" width="70" /></a>
 <!-- Codecademy -->
 	&nbsp;&nbsp;
-	<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="icone codecademy" height="25" width="80" /></a>
+	<a href="https://franckdun.github.io/002_Anim-texte-js/" target="blank"><img align="center" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="icone codecademy" height="25" width="80" /></a>
   <!-- IPFS -->
 	&nbsp;&nbsp;
 	<a href="#" target="blank"><img align="center" src="./img/ipfs.gif" alt="icone ipfs" height="50" width="160" /></a></p>
