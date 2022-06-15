@@ -93,7 +93,7 @@ I am a passionate French developer, welcome ! </h1>
             <td width="50%">
                 <h3 align="center">General idea</h3>
              <p align="center">
-             	Protéger les territoires et la production alimentaire avec des monnais locales.
+             	Protéger les territoires et la production alimentaire avec des monnaies locales.
              	Projet qui rentre dans un cadre ESS et environnemental.
              	<br>
              	Protect territories and food production with local currencies.
