@@ -94,7 +94,7 @@ I am a passionate French developer, welcome ! </h1>
                 <h3 align="center">General idea</h3>
              <p align="center">
              	Protéger les territoires et la production alimentaire avec des monnaies locales.
-             	Projet qui rentre dans un cadre ESS et environnemental.
+             	Projet qui s'inscrit dans un cadre ESS et environnemental.
              	<br>
              	Protect territories and food production with local currencies.
               	Project that falls within an SSE and environmental framework.
