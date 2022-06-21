@@ -81,6 +81,16 @@ I am a passionate French developer, welcome ! </h1>
 
 </h2>
 
+```javascript
+const franckdun = new Project_Blockchain();
+function autonomousWorld() {
+  if(franckdun.colaborater > 0){
+    return console.log("Great, I walk with you! We have no more oil but we still have ideas!");
+  }
+ return console.log("Sorry, nobody wants to save the world.");
+}
+```
+
 -----------------------------------------------------------------
 
 <!-- reseaux sociaux -->
