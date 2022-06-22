@@ -77,7 +77,7 @@ I am a passionate French developer, welcome ! </h1>
 <!-- Projects --> 
 <h2 align="center">
 	
-[![local currency]()](https://github.com/franckdun/LocalCurrencies)
+[![LOCAL CURRENCY]()](https://github.com/franckdun/LocalCurrencies)
 	
 </h2>
 
