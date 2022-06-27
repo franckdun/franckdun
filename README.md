@@ -5,7 +5,7 @@
  
 <!-- Intro phrase HI !--> 
  
-<h1 align="center"><a href="https://franckdun.github.io/002_Anim-texte-js/" target="blank" width="76.5px" text-decoration="strong" >&#9568;&#9571; &#9553; &#8252;</a> <br><br>
+<h1 align="center"><a href="https://franckdun.github.io/002_Anim-texte-js/" target="_blank" width="76.5px" text-decoration="double" text-decoration="strong" >&#9568;&#9571; &#9553; &#8252;</a> <br><br>
 I am a passionate French developer, welcome ! </h1>
 
 <!-- presentation -->
