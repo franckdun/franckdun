@@ -41,7 +41,7 @@ I am a passionate French developer, welcome ! </h1>
 	     <td width="50%">
 
 <!-- Technos -->
- <h2 align="center">🔥Currently🔥</h2>
+ <h2 align="center"> Currently </h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franckdun&theme=onedark&show_icons=true&locale=en&layout=compact" alt="franckdun" /> </p>		   
 	   </td>  
