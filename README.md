@@ -18,7 +18,7 @@ I am a passionate French developer, welcome ! </h1>
 	
 * [Currently learning *the Ethereum ecosystem.*]()	
 
-* My projects are available [here.](https://github.com/franckdun/VisualPortfolio/blob/main/README.md)
+* See my Visualfolio [here.](https://github.com/franckdun/VisualPortfolio/blob/main/README.md)
 	(Open soon !)
 * Connect with me on :		
 
