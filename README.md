@@ -17,6 +17,7 @@ I am a passionate French developer, welcome ! </h1>
 * [Currently learning *the Ethereum ecosystem.*]()
 
 - <a href="https://github.com/franckdun/Visualfolio/blob/main/README.md"> <img src="https://img.shields.io/badge/GO%20TO-visualfolio-brightgreen"> </a>
+		   
 - Connect with me on :
 
 <!-- hyperledger -->
