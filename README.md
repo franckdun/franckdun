@@ -1,5 +1,3 @@
-
-
 <!-- frise -->
 <h1 align="center"> <img src="./img/giphy005.webp" width="75px"> <a href="https://github.com/franckdun/Img-Banck/tree/main/img">  <img src="./img/gitcat.webp" width="76.5px"> </a>  <img src="https://github.com/franckdun/ImageBanck/blob/main/img/giphy005.webp" width="75px"> </h1>
  
@@ -16,11 +14,10 @@ I am a passionate French developer, welcome ! </h1>
 		
 * [I'm a freelance Dev]()
 	
-* [Currently learning *the Ethereum ecosystem.*]()	
+* [Currently learning *the Ethereum ecosystem.*]()
 
-* See my Visualfolio [here.](https://github.com/franckdun/VisualPortfolio/blob/main/README.md)
-	
-* Connect with me on :		
+- See my Visualfolio [here.](https://github.com/franckdun/VisualPortfolio/blob/main/README.md)
+- Connect with me on :
 
 <!-- hyperledger -->
 <p align="center">
@@ -43,7 +40,7 @@ I am a passionate French developer, welcome ! </h1>
 <!-- Technos -->
 <br>
 
-* [Learning Acces (currently closed)](https://github.com/franckdun/My-learning)
+- [Learning Acces (currently closed)](https://github.com/franckdun/My-learning)
  <h2 align="center"> Currently </h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franckdun&theme=onedark&show_icons=true&locale=en&layout=compact" alt="franckdun" /> </p>		   
@@ -73,12 +70,13 @@ I am a passionate French developer, welcome ! </h1>
 <!-- github coupes blanches-->
 <!-- <p align="center"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franckdun" alt="franckdun" /></a > </p> -->
 
-------------------------------------------------------------------
+---
 
 [![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)]()<p align="center">🔥Come participate in my new great project!🔥</p>
+
 <!--START_SECTION:activity-->
 
-<!-- Projects --> 
+<!-- Projects -->
 <h2 align="center">
 	
 [![LOCAL CURRENCY]()](https://github.com/franckdun/LocalCurrencies)
@@ -88,14 +86,16 @@ I am a passionate French developer, welcome ! </h1>
 ```javascript
 const franckdun = new Project_Blockchain();
 function autonomousWorld() {
-  if(franckdun.colaborater > 0){
-    return console.log("Great, I walk with you! We have no more oil but we still have ideas!");
+  if (franckdun.colaborater > 0) {
+    return console.log(
+      "Great, I walk with you! We have no more oil but we still have ideas!"
+    );
   }
- return console.log("Sorry, nobody wants to save the world.");
+  return console.log("Sorry, nobody wants to save the world.");
 }
 ```
 
------------------------------------------------------------------
+---
 
 <!-- reseaux sociaux -->
 
@@ -114,8 +114,5 @@ function autonomousWorld() {
 [![img_contact](./img/instagram-light.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-light-mode-only)
 [![img_contact](./img/instagram-dark.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-dark-mode-only)
 
-
 <!-- nombre de vue -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=franckdun&label=Profile%20views&color=0e75b6&style=flat" alt="compteur" /> </p>
-
-
