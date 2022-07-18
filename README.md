@@ -73,14 +73,14 @@ I am a passionate French developer, welcome ! </h1>
 
 ---
 
-[![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)]()<p align="center">🔥Come participate in my new great project!🔥</p>
+![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png) <p align="center">🔥Come participate in my new great project !🔥</p>
 
 <!--START_SECTION:activity-->
 
 <!-- Projects -->
 <h2 align="center">
-	
-[![LOCAL CURRENCY]()](https://github.com/franckdun/LocalCurrencies)
+
+![LOCAL CURRENCY](https://github.com/franckdun/LocalCurrencies)
 	
 </h2>
 
