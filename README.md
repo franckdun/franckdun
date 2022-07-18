@@ -80,7 +80,7 @@ I am a passionate French developer, welcome ! </h1>
 <!-- Projects -->
 <h2 align="center">
 	
-[![LOCAL CURRENCY]()](https://github.com/franckdun/LocalCurrencies)
+![LOCAL CURRENCY](https://github.com/franckdun/LocalCurrencies)
 	
 </h2>
 
