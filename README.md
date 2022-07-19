@@ -60,18 +60,20 @@ I am a passionate French developer, welcome ! </h1>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franckdun&theme=onedark&" alt="franckdun" />
 </p>
 
-<!-- github coupes stats sombre-->
+<!-- 			github coupes stats sombre			-->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franckdun&theme=onedark" alt="franckdun" /></a > </p>
 
-<!-- github coupes blanches-->
+<!-- 			github coupes blanches				-->
 <!-- <p align="center"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franckdun" alt="franckdun" /></a > </p> -->
 
 ---
 
-[![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)]()<p align="center">🔥Come participate in my new great project!🔥</p>
+<!-- [![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)]() -->
 
-<!--START_SECTION:activity-->
+# <p align="center">🔥Come participate in my new great project!🔥</p> 
+
+<!--			START_SECTION:activity				-->
 
 <!-- Projects -->
 <h2 align="center">
