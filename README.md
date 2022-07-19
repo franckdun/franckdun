@@ -47,7 +47,7 @@ I am a passionate French developer, welcome ! </h1>
 </div>
 
 <br>
-<details><summary><h2 align="left">🔥 See my Languages and Tools ! 🔥</h2></summary>
+<details><summary><h2 align="left"><em><strong>🔥 See my Languages and Tools ! 🔥</strong></em></h2></summary>
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2> 		
 <h1 align="center">   
