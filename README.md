@@ -73,7 +73,7 @@ I am a passionate French developer, welcome ! </h1>
 
 <details><summary><p align="left">🔥Come participate in my new great project!🔥</p></summary>
 
-# <p align="center">🔥Come participate in my new great project!🔥</p> 
+# [![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)](https://github.com/franckdun/LocalCurrencies) 🔥![Come participate in my new great project!](https://github.com/franckdun/LocalCurrencies)🔥
 	
 <!-- 		Projects		 -->
 	
