@@ -12,7 +12,8 @@ I am a passionate French developer, welcome ! </h1>
 	<tr>
 	   <td width="50%">
 	   
-<p align="center"><a href="https://github.com/franckdun/Visualfolio/blob/main/README.md"><img src="https://img.shields.io/badge/Go%20to-visualfolio-blueviolet"></a></p>
+<p align="center"><a href="https://github.com/franckdun/Visualfolio/blob/main/README.md"> <img src="https://img.shields.io/badge/Go%20to-visualfolio-blueviolet">
+</a></p>
 		   
 * [I'm a freelance Dev]()
 	
