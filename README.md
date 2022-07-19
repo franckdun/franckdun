@@ -47,7 +47,7 @@ I am a passionate French developer, welcome ! </h1>
 </div>
 
 <br>
-<details><summary><h2 align="left">🔥 See my Languages and Tools 🔥</h2></summary>
+<details><summary><h2 align="left">🔥 See my Languages and Tools ! 🔥</h2></summary>
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2> 		
 <h1 align="center">   
@@ -59,6 +59,9 @@ I am a passionate French developer, welcome ! </h1>
 </details>
 
 <!-- PANNEAUX DE STASTISTIQUES -->
+
+<details><summary><h2 align="left">🔥 Come see my Stats ! 🔥</h2></summary>
+
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=franckdun&theme=onedark&show_icons=true&locale=fr" alt="franckdun" />
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franckdun&theme=onedark&" alt="franckdun" />
@@ -70,12 +73,13 @@ I am a passionate French developer, welcome ! </h1>
 
 <!-- 			github coupes blanches				-->
 <!-- <p align="center"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franckdun" alt="franckdun" /></a > </p> -->
+	
+	
+</details>	
 
 ---
 
-<!-- [![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)]() -->
-
-<details><summary><p align="left">🔥 Come see my new great project! 🔥</p></summary>
+<details><summary><h2 align="left">🔥 Come see my new great project! 🔥</h2></summary>
 
 # [![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)](https://github.com/franckdun/LocalCurrencies) <a href="https://github.com/franckdun/LocalCurrencies">Click here to see my project Blockchain !</a>
 	
