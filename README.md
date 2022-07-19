@@ -71,7 +71,7 @@ I am a passionate French developer, welcome ! </h1>
 
 <!-- [![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)]() -->
 
-<details><summary><p align="left">🔥Come see in my new great project!🔥</p></summary>
+<details><summary><p align="left">🔥 Come see my new great project! 🔥</p></summary>
 
 # [![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)](https://github.com/franckdun/LocalCurrencies) <a href="https://github.com/franckdun/LocalCurrencies">Click here to see my project Blockchain !</a>
 	
