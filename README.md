@@ -49,7 +49,7 @@ I am a passionate French developer, welcome ! </strong></em></h1>
 </div>
 
 <br>
-<details><summary><h2 align="left"><em><strong>🔥 See my Languages and Tools ! </strong></em></h2></summary>
+<details><summary><h2 align="left"><em><strong>🔥 See Languages and Tools ! </strong></em></h2></summary>
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2> 		
 <h1 align="center">   
@@ -62,7 +62,7 @@ I am a passionate French developer, welcome ! </strong></em></h1>
 
 <!-- PANNEAUX DE STASTISTIQUES -->
 
-<details><summary><h2 align="left"><em><strong> 🔥 See my Stats ! </strong></em></h2></summary>
+<details><summary><h2 align="left"><em><strong> 🔥 See Stats ! </strong></em></h2></summary>
 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=franckdun&theme=onedark&show_icons=true&locale=fr" alt="franckdun" />
@@ -81,7 +81,7 @@ I am a passionate French developer, welcome ! </strong></em></h1>
 
 ---
 
-<details><summary><h2 align="left"><em><strong>🔥 See my new great project ! </strong></em></h2></summary>
+<details><summary><h2 align="left"><em><strong>🔥 See my new project ! </strong></em></h2></summary>
 
 # [![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)](https://github.com/franckdun/LocalCurrencies) <a href="https://github.com/franckdun/LocalCurrencies">Click here to see my project Blockchain !</a>
 	
