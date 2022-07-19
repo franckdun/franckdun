@@ -77,7 +77,7 @@ I am a passionate French developer, welcome ! </h1>
 	
 <!-- 		Projects		 -->
 	
-# [![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)](https://github.com/franckdun/LocalCurrencies)<!-- ![Project LOCAL CURRENCY](https://github.com/franckdun/LocalCurrencies) -->
+# [![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)](https://github.com/franckdun/LocalCurrencies) ![Project LOCAL CURRENCY](https://github.com/franckdun/LocalCurrencies) 
 	
 ```javascript
 const franckdun = new Project_Blockchain();
