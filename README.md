@@ -1,3 +1,5 @@
+<table>
+<tr>
 <!-- frise -->
 <h1 align="center"> <img src="./img/giphy005.webp" width="75px"> <a href="https://github.com/franckdun/Img-Banck/tree/main/img">  <img src="./img/gitcat.webp" width="76.5px"> </a>  <img src="https://github.com/franckdun/ImageBanck/blob/main/img/giphy005.webp" width="75px"> </h1>
  
@@ -118,3 +120,6 @@ function autonomousWorld() {
 
 <!-- nombre de vue -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=franckdun&label=Profile%20views&color=0e75b6&style=flat" alt="compteur" /> </p>
+	
+</tr>
+</table>
