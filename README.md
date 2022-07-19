@@ -60,7 +60,7 @@ I am a passionate French developer, welcome ! </h1>
 
 <!-- PANNEAUX DE STASTISTIQUES -->
 
-<details><summary><h2 align="left">🔥 Come see my Stats ! 🔥</h2></summary>
+<details><summary><h2 align="left">🔥 See my Stats ! 🔥</h2></summary>
 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=franckdun&theme=onedark&show_icons=true&locale=fr" alt="franckdun" />
@@ -79,7 +79,7 @@ I am a passionate French developer, welcome ! </h1>
 
 ---
 
-<details><summary><h2 align="left">🔥 Come see my new great project! 🔥</h2></summary>
+<details><summary><h2 align="left">🔥 See my new great project ! 🔥</h2></summary>
 
 # [![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)](https://github.com/franckdun/LocalCurrencies) <a href="https://github.com/franckdun/LocalCurrencies">Click here to see my project Blockchain !</a>
 	
