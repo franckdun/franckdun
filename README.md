@@ -77,7 +77,7 @@ I am a passionate French developer, welcome ! </h1>
 	
 <!-- 		Projects		 -->
 	
-# [![LOCAL CURRENCY]()](https://github.com/franckdun/LocalCurrencies)
+# ![Project LOCAL CURRENCY](https://github.com/franckdun/LocalCurrencies)
 	
 ```javascript
 const franckdun = new Project_Blockchain();
