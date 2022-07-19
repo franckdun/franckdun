@@ -71,6 +71,9 @@ I am a passionate French developer, welcome ! </h1>
 
 <!-- [![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)]() -->
 
+<details><summary><p align="center">🔥Come participate in my new great project!🔥</p> </summary>
+<p>
+
 # <p align="center">🔥Come participate in my new great project!🔥</p> 
 
 <!--			START_SECTION:activity				-->
@@ -93,7 +96,7 @@ function autonomousWorld() {
   return console.log("Sorry, nobody wants to save the world.");
 }
 ```
-
+</p>
 ---
 
 <!-- reseaux sociaux -->
