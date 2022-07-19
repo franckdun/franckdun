@@ -3,8 +3,8 @@
  
 <!-- Intro phrase HI !--> 
  
-<h1 align="center"><a href="https://franckdun.github.io/002_Anim-texte-js/" target="_blank" width="76.5px" text-decoration="double" text-decoration="strong" >&#9568;&#9571; &#9553;</a>&#8252;<br><br>
-I am a passionate French developer, welcome ! </h1>
+<h1 align="center"><a href="https://franckdun.github.io/002_Anim-texte-js/" target="_blank" width="76.5px" text-decoration="double" text-decoration="strong" >&#9568;&#9571; &#9553;</a>&#8252;<br><br><em><strong>
+I am a passionate French developer, welcome ! </strong></em></h1>
 
 <!-- presentation -->
 <div align="center">
@@ -60,7 +60,7 @@ I am a passionate French developer, welcome ! </h1>
 
 <!-- PANNEAUX DE STASTISTIQUES -->
 
-<details><summary><h2 align="left">🔥 See my Stats ! 🔥</h2></summary>
+<details><summary><h2 align="left"><em><strong> 🔥 See my Stats ! 🔥</strong></em></h2></summary>
 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=franckdun&theme=onedark&show_icons=true&locale=fr" alt="franckdun" />
@@ -79,7 +79,7 @@ I am a passionate French developer, welcome ! </h1>
 
 ---
 
-<details><summary><h2 align="left">🔥 See my new great project ! 🔥</h2></summary>
+<details><summary><h2 align="left"><em><strong>🔥 See my new great project ! 🔥</strong></em></h2></summary>
 
 # [![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)](https://github.com/franckdun/LocalCurrencies) <a href="https://github.com/franckdun/LocalCurrencies">Click here to see my project Blockchain !</a>
 	
