@@ -37,9 +37,9 @@ I am a passionate French developer, welcome ! </h1>
 	     <td width="50%">
 
 <!-- Technos -->
-<p align="center"><a href="https://github.com/franckdun/Visualfolio/blob/main/README.md"> <img src="https://img.shields.io/badge/Go%20to-visualfolio-blueviolet"></a></p>
+<p align="center"><a href="https://github.com/franckdun/Visualfolio/blob/main/README.md"> <img src="https://img.shields.io/badge/Go%20to-visualfolio-blueviolet"></a>
 		     
-<p align="center"><a href="https://github.com/franckdun/My-learning"> <img src="https://img.shields.io/badge/Go%20to-Learnfolio-007acc"></a></p>
+<a href="https://github.com/franckdun/My-learning"> <img src="https://img.shields.io/badge/Go%20to-Learnfolio-007acc"></a></p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franckdun&theme=onedark&show_icons=true&locale=en&layout=compact" alt="franckdun" /> </p>		   
