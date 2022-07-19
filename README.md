@@ -39,7 +39,7 @@ I am a passionate French developer, welcome ! </h1>
 	     <td width="50%">
 
 <!-- Technos -->
-<br>
+
 <h2 align="center"><a href="https://github.com/franckdun/My-learning"> <img src="https://img.shields.io/badge/Go%20to-Learnfolio-007acc"></a></h2>
  <h2 align="center"> Currently </h2>
 <p align="center">
