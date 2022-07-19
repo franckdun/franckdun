@@ -41,7 +41,7 @@ I am a passionate French developer, welcome ! </h1>
 <!-- Technos -->
 <br>
 
-- <p align="center"><a href="https://github.com/franckdun/My-learning"> <img src="https://img.shields.io/badge/Go%20to-Learnfolio-brightgreen"></a></p> (currently private)
+- <p align="center"><a href="https://github.com/franckdun/My-learning"> <img src="https://img.shields.io/badge/Go%20to-Learnfolio-brightgreen"></a>(currently private)</p>
  <h2 align="center"> Currently </h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franckdun&theme=onedark&show_icons=true&locale=en&layout=compact" alt="franckdun" /> </p>		   
