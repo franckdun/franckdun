@@ -41,6 +41,8 @@ I am a passionate French developer, welcome ! </strong></em></h1>
 <!-- Technos -->
 <h2 align="center"> <a href="https://github.com/franckdun/Visualfolio/blob/main/README.md"> <img src="https://img.shields.io/badge/Go%20to-Visualfolio-blueviolet"></a> <a href="https://github.com/franckdun/My-learning"> <img src="https://img.shields.io/badge/🔒-Learnfolio-007acc"></a></h2>
 
+<h2 align="center"> <a href="#"> <img src="https://img.shields.io/badge/🔒-Workspace-ff002f"></a> <a href="#"> <img src="https://img.shields.io/badge/🔒-Codespace-blueviolet"></a></h2>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franckdun&theme=onedark&show_icons=true&locale=en&layout=compact" alt="franckdun" /> </p>		   
 	   </td>  
