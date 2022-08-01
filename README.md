@@ -14,7 +14,7 @@ Welcome, thank you for your little visit ! </strong></em></h1>
 	<tr>
 	   <td width="50%">
 
-* [I'm a french Dev]()
+* [I'm a french Developper]()
 	
 * [Currently learning *the Ethereum ecosystem.*]()
 		   
@@ -52,7 +52,7 @@ Welcome, thank you for your little visit ! </strong></em></h1>
 </div>
 
 <br>
-<details><summary><h2 align="left"><em><strong>🔥 See Languages and Tools ! </strong></em></h2></summary>
+<details><summary><h2 align="left"><em><strong>🔥 Here are some languages and tools used ! </strong></em></h2></summary>
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2> 		
 <h1 align="center">   
@@ -65,7 +65,7 @@ Welcome, thank you for your little visit ! </strong></em></h1>
 
 <!-- PANNEAUX DE STASTISTIQUES -->
 
-<details><summary><h2 align="left"><em><strong> 🔥 See Stats ! </strong></em></h2></summary>
+<details><summary><h2 align="left"><em><strong> 🔥 Here are some stats ! </strong></em></h2></summary>
 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=franckdun&theme=onedark&show_icons=true&locale=fr" alt="franckdun" />
