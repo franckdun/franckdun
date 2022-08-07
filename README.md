@@ -122,7 +122,7 @@ function autonomousWorld() {
 [![img_contact](./img/instagram-dark.svg)](https://github.com/franckdun/ImageBanck/blob/main/img/lofimax.gif/i/#gh-dark-mode-only)
 
 <!-- nombre de vue -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=franckdun&label=Profile%20views&color=0e75b6&style=flat" alt="compteur" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=franckdun&label=Profile%20views&color=7a006c&style=flat" alt="compteur" /> </p>
 	
 </tr>
 </table>
