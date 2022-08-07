@@ -82,7 +82,7 @@ Welcome, thank you for your little visit ! </strong></em></h1>
 	
 </details>	
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=7a006c&height=50&width=1100&section=footer) 
+--- 
 
 <details><summary><h2 align="left"><em><strong>🔥 See my new project ! </strong></em></h2></summary>
 
