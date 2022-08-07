@@ -1,5 +1,4 @@
-![bottom](https://capsule-render.vercel.app/api?type=waving&color=#7a006c&height=50&width=1100&section=bottom) 
- 
+<p align="center"><img  src="https://capsule-render.vercel.app/api?type=waving&color=7a006c&height=150&width=1100" width="1100px" ></p>
 
 <table>
 <tr>
@@ -130,4 +129,3 @@ function autonomousWorld() {
 </table>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=7a006c&height=80&width=1100&section=footer) 
