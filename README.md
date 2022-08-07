@@ -127,4 +127,4 @@ function autonomousWorld() {
 </tr>
 </table>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=7a006c&height=200&width=1100&section=footer) 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=7a006c&height=100&width=1100&section=footer) 
