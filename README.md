@@ -79,10 +79,9 @@ Welcome, thank you for your little visit ! </strong></em></h1>
 <!-- 			github coupes blanches				-->
 <!-- <p align="center"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franckdun" alt="franckdun" /></a > </p> -->
 	
-	
-</details>	
+---
 
---- 
+</details>	
 
 <details><summary><h2 align="left"><em><strong>🔥 See my new project ! </strong></em></h2></summary>
 
