@@ -1,6 +1,6 @@
 
 <p align="center"><img  src="https://capsule-render.vercel.app/api?type=waving&color=7a006c&height=65&width=1100&section=footer" width="1100px" ></p>
-<p align="center"><a href="https://github.com/franckdun/Learn-GALERY"><img src="https://img.shields.io/badge/--rgb(230, 218, 0)" width="1100" height="3" ></a></p>
+<p align="center"><a href="https://github.com/franckdun/Learn-GALERY"><img src="https://img.shields.io/badge/--e6b53e" width="1100" height="3" ></a></p>
 <p align="center"><img  src="https://capsule-render.vercel.app/api?type=waving&color=7a006c&height=60&width=1100&section=bottom" width="1100px" ></p>
 
 <table>
