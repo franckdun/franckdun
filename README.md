@@ -1,4 +1,4 @@
-![bottom](https://capsule-render.vercel.app/api?type=waving&color=#7a006c&height=50&width=1100&section=footer) 
+![bottom](https://capsule-render.vercel.app/api?type=waving&color=#7a006c&height=50&width=1100&section=bottom) 
  
 
 <table>
