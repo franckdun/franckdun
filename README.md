@@ -1,9 +1,10 @@
-![bottom](https://capsule-render.vercel.app/api?type=waving&color=7a006c&height=50&width=1100&section=footer)  
+![bottom](https://capsule-render.vercel.app/api?type=waving&color=#7a006c&height=50&width=1100&section=footer) 
+ 
 
 <table>
 <tr>
-<!-- frise -->
-<h1 align="center"> <img src="./img/giphy005.webp" width="75px"> <a href="https://github.com/franckdun/Img-Banck/tree/main/img">  <img src="./img/gitcat.webp" width="76.5px"> </a>  <img src="https://github.com/franckdun/ImageBanck/blob/main/img/giphy005.webp" width="75px"> </h1>
+<!-- frise 
+<h1 align="center"> <img src="./img/giphy005.webp" width="75px"> <a href="https://github.com/franckdun/Img-Banck/tree/main/img">  <img src="./img/gitcat.webp" width="76.5px"> </a>  <img src="https://github.com/franckdun/ImageBanck/blob/main/img/giphy005.webp" width="75px"> </h1> -->
  
 <!-- Intro phrase HI !--> 
  
@@ -128,4 +129,5 @@ function autonomousWorld() {
 </tr>
 </table>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=7a006c&height=60&width=1100&section=footer) 
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=7a006c&height=80&width=1100&section=footer) 
