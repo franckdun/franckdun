@@ -90,7 +90,7 @@ Welcome, thank you for your little visit ! </strong></em></h1>
 
 <details><summary><h2 align="left"><em><strong>🔥 See my new project ! </strong></em></h2></summary>
 
-# [![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png)](https://github.com/franckdun/LocalCurrencies) <a href="https://github.com/franckdun/LocalCurrencies">Click here to see my project Blockchain !</a>
+# [![img_contact](https://github.com/franckdun/ImageBanck/blob/main/img/octocat.png "Do you like the Blockchain ?")](https://github.com/franckdun/LocalCurrencies) <a href="https://github.com/franckdun/LocalCurrencies">Click here to see my project Blockchain !</a>
 	
 <!-- 		Projects		 -->
 
