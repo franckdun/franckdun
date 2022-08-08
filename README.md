@@ -10,7 +10,7 @@
  
 <!-- Intro phrase HI !--> 
  
-<h1 align="center"><a href="https://franckdun.github.io/002_Anim-texte-js/" target="_blank" width="76.5px" text-decoration="double" text-decoration="strong" title="🎉 Bienvenue les Copains !🎉 ">&#9568;&#9571; &#9553;</a>&#8252;<br><br><em><strong>
+<h1 align="center"><a href="https://franckdun.github.io/002_Anim-texte-js/" width="76.5px" text-decoration="double" text-decoration="strong" title="🎉 Bienvenue les Copains !🎉 " target="_blanck">&#9568;&#9571; &#9553;</a>&#8252;<br><br><em><strong>
 Welcome, thank you for your little visit ! </strong></em></h1>
 
 <!-- presentation -->
