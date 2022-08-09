@@ -1,7 +1,7 @@
 
 <span align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=7a006c&height=65&width=1100&section=footer" width="1100px" alt="wave"></span>
 
-<span align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=e6b53e&height=48&width=1100&section=bottom" width="1100px" alt="wave"></span>
+<span align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=e6b53e&height=46&width=1100&section=bottom" width="1100px" alt="wave"></span>
 
 <span align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=e6b53e&height=54&width=1100&section=footer" width="1100px" alt="wave"></span>
 
