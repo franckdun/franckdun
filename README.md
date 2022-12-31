@@ -51,7 +51,7 @@ Welcome, thank you for your little visit ! </strong></em></h1>
 	     <td width="50%">
 
 <!-- Visualfolio Learnfolio -->
-<h2 align="center"> <a href="https://github.com/franckdun/Visualfolio/blob/main/README.md"> <img src="https://img.shields.io/badge/Go%20to-Visualfolio-blueviolet"></a> <a href="https://github.com/franckdun/Learn-GALERY"> <img src="https://img.shields.io/badge/🔒-Learn GALERY-ffc944"></a></h2>
+<h2 align="center"> <a href="https://github.com/franckdun/Visualfolio/blob/main/README.md"> <img src="https://img.shields.io/badge/Go%20to-Visualfolio-blueviolet"></a> <a href="https://github.com/franckdun/Knowledge-GALERY"> <img src="https://img.shields.io/badge/🔒-Learn GALERY-ffc944"></a></h2>
 
 <!-- DASHBOARD / COMMUNITY -->
 <h2 align="center"> <a href="https://github.com/dashboard"> <img src="https://img.shields.io/badge/Go%20to-Dashboard-ff002f"></a><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🎉-🔭%20Monitor D.I-f04c0b" width="#"></a></p></h2>
