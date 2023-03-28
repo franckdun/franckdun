@@ -17,7 +17,7 @@
  
 <!-- Intro phrase HI !--> 
  
-<h1 align="center"><a href="https://franckdun.github.io/Random-quote-cards/" width="76.5px" text-decoration="double" text-decoration="strong" title="🎉 Bienvenue les Copains !🎉" target="_blank" >&#9568;&#9571; &#9553;</a>&#8252;<br><br><em><strong>
+<h1 align="center"><a href="https://franckdun.github.io/Random-quote-cards/" width="76.5px" text-decoration="double" text-decoration="strong" title="🎉 Click here to find out if you're lucky !🎉" target="_blank" >&#9568;&#9571; &#9553;</a>&#8252;<br><br><em><strong>
 Welcome, thank you for your little visit ! </strong></em></h1>
 
 <!-- presentation -->
